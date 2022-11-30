@@ -13,4 +13,3 @@ In order to deploy via Cloud Build located in project MANAGEMENT to CloudFunctio
      | Service Account User      | `roles/iam.serviceAccountUser`  |
 
 
-### Copyleft (c) by Denis Astahov
