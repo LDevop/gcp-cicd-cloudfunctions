@@ -2,9 +2,9 @@
 
 <br><img src="README.png"><br>
 
-In order to deploy via Cloud Build located in project MANAGEMENT to CloudFunction located in project STAGING,PROD you will need:
+In order to deploy via Cloud Build located in project DEVELOPMENT to CloudFunction located in project STAGING,PROD you will need:
 
-1. In project MANAGEMENT, get email of account for `xxxxxxxx@cloudbuild.gserviceaccount.com`
+1. In project DEVELOPMENT, get email of account for `xxxxxxxx@cloudbuild.gserviceaccount.com`
 2. In project STAGING and PROD add this account as princial into IAM and add Roles:
 
      | IAM Role Name             | IAM Role Permission             |
